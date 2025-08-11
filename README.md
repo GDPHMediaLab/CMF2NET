@@ -1,5 +1,8 @@
 
-# Cross-Modal-Breast-Cancer-Segmentation
+# CMF2Net
+
+# This is the repository for the paper CMF2Net: Cross-Modal Feature Fusion Model for Breast Tumor Seg-
+mentation in Dynamic Contrast-Enhanced and T2-Weighted MRI
 
 ## Usage
 
